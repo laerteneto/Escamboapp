@@ -1,0 +1,9 @@
+rvm:
+  - 1.9.3
+  - 2.0.0
+
+install:
+  - "bundle install"
+
+script:
+  - "bundle exec rspec spec"

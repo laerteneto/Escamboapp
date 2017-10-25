@@ -1,0 +1,30 @@
+{
+  "name": "rails-assets-animate-css",
+  "downloads": null,
+  "version": "3.5.2",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/daneden/animate.css",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/daneden/animate.css",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/daneden/animate.css",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}

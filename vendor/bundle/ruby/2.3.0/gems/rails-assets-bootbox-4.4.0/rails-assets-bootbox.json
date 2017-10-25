@@ -1,0 +1,37 @@
+{
+  "name": "rails-assets-bootbox",
+  "downloads": null,
+  "version": "4.4.0",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/makeusabrew/bootbox",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/makeusabrew/bootbox",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/makeusabrew/bootbox",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-bootstrap",
+      "requirements": ">= 3.0.0"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}

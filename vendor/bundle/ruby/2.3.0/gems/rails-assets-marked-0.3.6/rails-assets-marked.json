@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-marked",
+  "downloads": null,
+  "version": "0.3.6",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "A markdown parser built for speed",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/chjj/marked",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/chjj/marked",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/chjj/marked",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
